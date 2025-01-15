@@ -1,0 +1,3 @@
+﻿ID,Nombre,Edad,Género,Diagnóstico_Principal,Comorbilidad,Fecha_Diagnóstico_Asma,Fecha_Diagnóstico_Comorbilidad,Tratamiento_Asma,Tratamiento_Comorbilidad,Notas;
+1,Carlos López,34,Masculino,Asma,Ansiedad,2022-03-15,2023-01-10,Corticosteroides inhalados,Terapia cognitivo-conductual,Requiere seguimiento cada 6 meses por problemas respiratorios y manejo de ansiedad.;
+2,Ana Martínez,29,Femenino,Asma,Depresión,2021-09-10,2022-06-05,Broncodilatadores de acción prolongada,Antidepresivos ISRS,Asma controlada; prioridad en manejo de episodios depresivos.
