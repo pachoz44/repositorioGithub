@@ -1,0 +1,8 @@
+Paciente,Medicamento,Dosis,Horario,Referencia Horario,Indicación
+Juan Pérez,Ácido tióctico,600 mg,06:00,Mañana,Protección nerviosa
+Juan Pérez,Dapagliflozina,10 mg,07:00,Mañana,Control de glucosa
+Juan Pérez,Losartán,50 mg,08:30,Mañana,Control de presión arterial
+Juan Pérez,Metformina,1000 mg,12:30,Almuerzo,Control de glucosa
+Juan Pérez,Metformina,1000 mg,19:30,Cena,Control de glucosa
+Juan Pérez,Atorvastatina,10 mg,22:00,Noche,Control de colesterol
+Juan Pérez,Insulina Glargina,42 U,22:00,Noche,Control de glucosa
