@@ -1,0 +1,42 @@
+ID_Proyecto,Etapa,Descripción,Fecha_Inicio_Planificada,Fecha_Fin_Planificada,Estado
+001,Planificación,Definición de planos y permisos,2024-01-15,2024-03-15,Completado
+001,Diseño,Diseño arquitectónico y estructural,2024-03-16,2024-06-30,Completado
+001,Ejecución,Construcción física,2024-07-01,2025-03-31,En Progreso
+001,Revisión,Inspección y ajustes,2025-04-01,2025-05-31,Pendiente
+001,Finalización,Entrega y apertura,2025-06-01,2025-06-30,Pendiente
+002,Planificación,Estudio de viabilidad,2023-03-01,2023-05-31,Completado
+002,Diseño,Diseño de vías y drenaje,2023-06-01,2023-09-30,Completado
+002,Ejecución,Pavimentación y señalización,2023-10-01,2024-11-30,Completado
+002,Finalización,Inauguración,2024-12-01,2024-12-20,Completado
+003,Planificación,Estudio hidrológico,2025-05-01,2025-07-31,Pendiente
+003,Diseño,Diseño de tuberías y planta,2025-08-01,2025-12-31,Pendiente
+003,Ejecución,Instalación del sistema,2026-01-01,2026-10-31,Pendiente
+003,Finalización,Pruebas y entrega,2026-11-01,2026-12-31,Pendiente
+004,Planificación,Estudio de impacto ambiental,2024-06-01,2024-07-15,Completado
+004,Diseño,Diseño del parque y senderos,2024-07-16,2024-09-30,Completado
+004,Ejecución,Construcción y plantación,2024-10-01,2025-06-30,En Progreso
+004,Finalización,Inauguración y entrega,2025-07-01,2025-09-15,Pendiente
+005,Planificación,Definición de talleres,2024-02-10,2024-03-10,Completado
+005,Ejecución,Implementación de capacitaciones,2024-03-11,2024-07-31,Completado
+005,Finalización,Evaluación y cierre,2024-08-01,2024-08-30,Completado
+006,Planificación,Evaluación de necesidades,2024-09-01,2024-10-15,Completado
+006,Diseño,Planificación de red eléctrica,2024-10-16,2024-12-31,En Progreso
+006,Ejecución,Instalación de postes y cables,2025-01-01,2025-10-31,Pendiente
+006,Revisión,Pruebas y ajustes,2025-11-01,2025-12-15,Pendiente
+006,Finalización,Conexión y entrega,2025-12-16,2025-12-31,Pendiente
+007,Planificación,Estudio de necesidades de salud,2024-03-01,2024-04-30,Completado
+007,Diseño,Diseño del centro médico,2024-05-01,2024-07-31,Completado
+007,Ejecución,Construcción del edificio,2024-08-01,2025-08-31,En Progreso
+007,Finalización,Equipamiento y apertura,2025-09-01,2025-10-15,Pendiente
+008,Planificación,Identificación de espacios,2024-07-15,2024-08-31,Completado
+008,Diseño,Plan de recuperación urbana,2024-09-01,2024-11-30,En Progreso
+008,Ejecución,Rehabilitación de áreas,2024-12-01,2025-10-31,Pendiente
+008,Finalización,Entrega a la comunidad,2025-11-01,2025-11-30,Pendiente
+009,Planificación,Estudio de zonas a reforestar,2025-01-15,2025-03-15,Pendiente
+009,Diseño,Plan de siembra y especies,2025-03-16,2025-06-30,Pendiente
+009,Ejecución,Plantación y mantenimiento,2025-07-01,2026-02-28,Pendiente
+009,Finalización,Evaluación de impacto,2026-03-01,2026-03-31,Pendiente
+010,Planificación,Estudio de mercado,2024-04-01,2024-06-30,Completado
+010,Diseño,Diseño del mercado,2024-07-01,2024-09-30,Completado
+010,Ejecución,Construcción de instalaciones,2024-10-01,2025-10-31,En Progreso
+010,Finalización,Inauguración y apertura,2025-11-01,2025-12-15,Pendiente
